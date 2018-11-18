@@ -1,0 +1,4 @@
+Acquire::http::proxy "http://murthy:msit657104@proxy.msitprogram.net:3128/";
+Acquire::https::proxy  "https://murthy:msit657104@proxy.msitprogram.net:3128/";
+Acquire::ftp::proxy  "ftp://murthy:msit657104@proxy.msitprogram.net:3128/";
+Acquire::socks::proxy  "socks://murthy:msit657104@proxy.msitprogram.net:3128/";
