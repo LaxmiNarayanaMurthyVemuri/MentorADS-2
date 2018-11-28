@@ -1,0 +1,6 @@
+[master 2ecd000] "ads2_m2_a1_1: 24/24 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ rewrite 2.1 CC_Percolation/result/score.json (100%)
+To https://github.com/LaxmiNarayanaMurthyVemuri/MentorADS-2.git
+   8ef896a..2ecd000  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.

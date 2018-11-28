@@ -1,0 +1,4 @@
+removeHorizontalSeam removeVerticalSeam
+diagonals.png
+chameleon.png
+HJoceanSmall.png

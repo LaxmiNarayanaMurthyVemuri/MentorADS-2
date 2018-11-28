@@ -1,0 +1,6 @@
+Preorder:  
+0 2 3 1 
+Postorder: 
+3 2 1 0 
+Reverse postorder: 
+0 1 2 3 

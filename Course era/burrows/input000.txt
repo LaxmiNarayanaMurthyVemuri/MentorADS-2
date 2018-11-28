@@ -1,0 +1,17 @@
+CircularSuffixArrayTest
+cadabra.txt
+10
+amendments.txt
+100
+a.txt
+0
+stars.txt
+2
+couscous.txt
+3
+moby1.txt
+10
+alphanum.txt
+0
+zebra.txt
+-1
