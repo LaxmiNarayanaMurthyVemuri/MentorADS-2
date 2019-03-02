@@ -15,3 +15,5 @@ To develop skills to apply appropriate data structures in problem solving.
 Basic concepts in the specification and analysis of programs.
 
 Principles for good program design, especially the uses of data abstraction.
+
+[Course : ADS - 2](http://iiitdev.msitprogram.net/)
